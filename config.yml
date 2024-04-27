@@ -1,0 +1,25 @@
+connection:
+  device_type: cisco_ios
+  switch_ip: 10.101.100.10
+configuration:
+  int_type: GigabitEthernet
+  int_num_a: 1
+  int_num_b: 23
+  data_vlan: 104
+  voice_vlan: 190
+  network_octets: 10.101.100.
+credentials:
+  - username: amiadmin
+    password: M@t3r!@l$55
+  - username: admin
+    password: AMI@dm1n
+  - username: aadmin
+    password: AMI@dm1n**
+  - username: admin
+    password: sw703
+  - username: admin
+    password: switch703
+  - username: sw703
+    password: sw703
+  - username: switch703
+    password: switch703

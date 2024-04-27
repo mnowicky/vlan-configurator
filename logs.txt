@@ -1,0 +1,112 @@
+2024-4-23 8:32:25 [INFO]:	Attempting to connect to switch 10.101.100.9 with amiadmin and M@t3r!@l$55...
+2024-4-23 8:36:45 [INFO]:	Attempting to connect to switch 10.101.100.9 with amiadmin and M@t3r!@l$55...
+2024-4-23 9:14:8 [INFO]:	Attempting to connect to switch 10.101.100.18 with amiadmin and M@t3r!@l$55...
+2024-4-23 9:33:38 [INFO]:	Attempting to connect to switch 10.101.100.4 with amiadmin and M@t3r!@l$55...
+2024-4-23 10:47:23 [INFO]:	Attempting to connect to switch 10.101.100.5 with amiadmin and M@t3r!@l$55...
+2024-4-23 11:19:0 [INFO]:	Attempting to connect to switch 10.101.100.5 with amiadmin and M@t3r!@l$55...
+2024-4-23 11:31:39 [INFO]:	Attempting to connect to switch 10.101.100.5 with amiadmin and M@t3r!@l$55...
+2024-4-23 12:25:24 [INFO]:	Attempting to connect to switch 10.101.100.3 with amiadmin and M@t3r!@l$55...
+2024-4-23 12:54:15 [INFO]:	Attempting to connect to switch 10.101.100.3 with amiadmin and M@t3r!@l$55...
+2024-4-23 12:54:30 [ERROR]:	Wrote configuration change to GigabitEthernet2/0/33.
+2024-4-23 13:0:38 [ERROR]:	Wrote configuration change to GigabitEthernet2/0/17.
+2024-4-23 13:1:24 [ERROR]:	Wrote configuration change to GigabitEthernet1/0/8.
+2024-4-23 13:3:24 [INFO]:	Attempting to connect to switch 10.101.100.2 with amiadmin and M@t3r!@l$55...
+2024-4-23 13:3:37 [INFO]:	Wrote configuration change to GigabitEthernet1/0/4.
+2024-4-23 13:6:29 [INFO]:	Attempting to connect to switch 10.101.100.55 with amiadmin and M@t3r!@l$55...
+2024-4-23 13:6:31 [ERROR]:	Failed to connect to switch 10.101.100.55.
+2024-4-23 13:6:31 [ERROR]:	Error: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 10.101.100.55:22
+
+
+Bad authentication type; allowed types: [''].
+2024-4-23 13:6:31 [INFO]:	Attempting to connect to switch 10.101.100.55 with admin and AMI@dm1n...
+2024-4-23 13:6:32 [ERROR]:	Failed to connect to switch 10.101.100.55.
+2024-4-23 13:6:32 [ERROR]:	Error: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 10.101.100.55:22
+
+
+Bad authentication type; allowed types: [''].
+2024-4-23 13:6:32 [INFO]:	Attempting to connect to switch 10.101.100.55 with aadmin and AMI@dm1n**...
+2024-4-23 13:6:33 [ERROR]:	Failed to connect to switch 10.101.100.55.
+2024-4-23 13:6:33 [ERROR]:	Error: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 10.101.100.55:22
+
+
+Bad authentication type; allowed types: [''].
+2024-4-23 13:6:33 [INFO]:	Attempting to connect to switch 10.101.100.55 with admin and sw703...
+2024-4-23 13:10:51 [INFO]:	Attempting to connect to switch 10.101.100.3 with amiadmin and M@t3r!@l$55...
+2024-4-23 13:11:6 [INFO]:	Wrote configuration change to GigabitEthernet1/0/12.
+2024-4-23 14:2:24 [INFO]:	Attempting to connect to switch 10.101.100.8 with amiadmin and M@t3r!@l$55...
+2024-4-23 14:2:38 [INFO]:	Wrote configuration change to GigabitEthernet1/0/1.
+2024-4-23 14:3:54 [INFO]:	Wrote configuration change to GigabitEthernet1/0/38.
+2024-4-23 14:5:45 [INFO]:	Wrote configuration change to GigabitEthernet1/0/12.
+2024-4-23 14:7:16 [INFO]:	Wrote configuration change to GigabitEthernet1/0/46.
+2024-4-23 14:9:11 [INFO]:	Wrote configuration change to GigabitEthernet1/0/30.
+2024-4-23 14:11:2 [INFO]:	Wrote configuration change to GigabitEthernet1/0/36.
+2024-4-23 14:12:26 [INFO]:	Wrote configuration change to GigabitEthernet1/0/26.
+2024-4-23 14:13:32 [INFO]:	Wrote configuration change to GigabitEthernet1/0/24.
+2024-4-23 14:14:8 [INFO]:	Wrote configuration change to GigabitEthernet1/0/22.
+2024-4-23 14:15:37 [INFO]:	Wrote configuration change to GigabitEthernet1/0/15.
+2024-4-23 14:16:56 [INFO]:	Wrote configuration change to GigabitEthernet1/0/9.
+2024-4-23 14:17:51 [INFO]:	Wrote configuration change to GigabitEthernet1/0/39.
+2024-4-23 14:21:40 [INFO]:	Attempting to connect to switch 10.101.100.13 with amiadmin and M@t3r!@l$55...
+2024-4-23 14:21:47 [INFO]:	Wrote configuration change to GigabitEthernet1/0/16.
+2024-4-23 14:23:17 [INFO]:	Wrote configuration change to GigabitEthernet1/0/18.
+2024-4-23 14:24:22 [INFO]:	Wrote configuration change to GigabitEthernet1/0/20.
+2024-4-23 14:25:14 [INFO]:	Wrote configuration change to GigabitEthernet2/0/34.
+2024-4-25 8:27:52 [INFO]:	Attempting to connect to switch 10.101.100.36 with amiadmin and M@t3r!@l$55...
+2024-4-25 8:28:3 [INFO]:	Wrote configuration change to GigabitEthernet1/0/17.
+2024-4-25 8:35:3 [INFO]:	Attempting to connect to switch 10.101.100.35 with amiadmin and M@t3r!@l$55...
+2024-4-25 8:35:14 [INFO]:	Wrote configuration change to GigabitEthernet1/0/29.
+2024-4-25 8:36:51 [INFO]:	Wrote configuration change to GigabitEthernet1/0/13.
+2024-4-25 8:37:10 [INFO]:	Wrote configuration change to GigabitEthernet1/0/13.
+2024-4-25 8:39:31 [INFO]:	Wrote configuration change to GigabitEthernet1/0/24.
+2024-4-25 8:40:27 [INFO]:	Wrote configuration change to GigabitEthernet1/0/22.
+2024-4-25 8:46:4 [INFO]:	Attempting to connect to switch 10.101.100.16 with amiadmin and M@t3r!@l$55...
+2024-4-25 8:46:30 [INFO]:	Wrote configuration change to GigabitEthernet1/0/8.
+2024-4-25 8:50:56 [INFO]:	Wrote configuration change to GigabitEthernet1/0/12.
+2024-4-25 8:55:29 [INFO]:	Wrote configuration change to GigabitEthernet1/0/3.
+2024-4-25 9:3:25 [INFO]:	Attempting to connect to switch 10.101.100.34 with amiadmin and M@t3r!@l$55...
+2024-4-25 9:3:32 [INFO]:	Wrote configuration change to GigabitEthernet1/0/16.
+2024-4-25 9:4:8 [INFO]:	Attempting to connect to switch 10.101.100.34 with amiadmin and M@t3r!@l$55...
+2024-4-25 9:4:14 [INFO]:	Wrote configuration change to GigabitEthernet1/0/16.
+2024-4-25 9:11:59 [INFO]:	Attempting to connect to switch 10.101.100.5 with amiadmin and M@t3r!@l$55...
+2024-4-25 9:12:13 [INFO]:	Attempting to connect to switch 10.101.100.15 with amiadmin and M@t3r!@l$55...
+2024-4-25 9:12:18 [INFO]:	Wrote configuration change to GigabitEthernet1/0/5.
+2024-4-25 9:13:19 [INFO]:	Attempting to connect to switch 10.101.100.15 with amiadmin and M@t3r!@l$55...
+2024-4-25 9:17:21 [INFO]:	Attempting to connect to switch 10.101.100.18 with amiadmin and M@t3r!@l$55...
+2024-4-25 9:17:48 [INFO]:	Wrote configuration change to GigabitEthernet1/0/9.
+2024-4-25 9:21:15 [INFO]:	Wrote configuration change to GigabitEthernet1/0/21.
+2024-4-25 9:22:31 [INFO]:	Wrote configuration change to GigabitEthernet1/0/3.
+2024-4-25 9:28:8 [INFO]:	Attempting to connect to switch 10.101.100.13 with amiadmin and M@t3r!@l$55...
+2024-4-25 9:28:14 [INFO]:	Wrote configuration change to GigabitEthernet1/0/43.
+2024-4-25 9:35:18 [INFO]:	Attempting to connect to switch 10.101.100.32 with amiadmin and M@t3r!@l$55...
+2024-4-25 9:35:25 [INFO]:	Wrote configuration change to GigabitEthernet1/0/25.
+2024-4-25 9:37:18 [INFO]:	Attempting to connect to switch 10.101.100.32 with amiadmin and M@t3r!@l$55...
+2024-4-25 9:37:24 [INFO]:	Wrote configuration change to GigabitEthernet1/0/12.
+2024-4-25 9:39:49 [INFO]:	Wrote configuration change to GigabitEthernet1/0/22.
+2024-4-25 9:40:43 [INFO]:	Wrote configuration change to GigabitEthernet1/0/28.
+2024-4-25 9:41:42 [INFO]:	Wrote configuration change to GigabitEthernet1/0/13.
+2024-4-25 9:44:33 [INFO]:	Attempting to connect to switch 10.101.100.32 with amiadmin and M@t3r!@l$55...
+2024-4-25 9:44:35 [INFO]:	Wrote configuration change to GigabitEthernet1/0/44.
+2024-4-25 9:47:16 [INFO]:	Wrote configuration change to GigabitEthernet1/0/32.
+2024-4-25 9:57:53 [INFO]:	Attempting to connect to switch 10.101.100.15 with amiadmin and M@t3r!@l$55...
+2024-4-25 9:58:12 [INFO]:	Wrote configuration change to GigabitEthernet1/0/6.
