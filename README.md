@@ -1,3 +1,8 @@
+Simple script that runs a loop to re-configure interface voice and data vlans on cisco switches. To switch devices, ctrl + c to stop and re-run, specifying a new 4th octet of the configured network address. 
+Offers option to save configuration after writing changes. 
+
+Offers option to run in verbose mode (prompt for input to determine switch ip and interface numbers), or configuration mode (run using the parameters specified in the config file). 
+
 Configure in the config file:
  - the first 3 octets of the network address on which your devices reside (str).
  - vlan number for access vlan you would like configured (int).
@@ -10,5 +15,4 @@ Accepts as input:
  - the second number of the interface name for the interface you would like re-configured (ex. for interface GigabitEthernet 2/0/16, you would enter: 16; n where n == 2/0/n).
 
 
-Simple script that runs a loop to re-configure interface voice and data vlans on cisco switches. To switch devices, ctrl + c to stop and re-run, specifying a new 4th octet of the configured network address. 
-Offers option to save configuration after writing changes. 
+
